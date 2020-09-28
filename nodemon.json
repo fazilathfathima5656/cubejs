@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER":"fazilath5656",
+        "MONGO_PASSWORD":"eGo0goRH4E5SbdXT",
+    "MONGO_DB":"events" 
+  }
+}
